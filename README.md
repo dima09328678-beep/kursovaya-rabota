@@ -90,7 +90,6 @@
 
 ### Сборка проекта
 
-```bash
 # Клонирование репозитория
 git clone https://github.com/dima09328678-beep/test-rep.git
 cd test-rep
