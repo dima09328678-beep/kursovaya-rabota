@@ -66,7 +66,7 @@
 ### Установка
 
 1. Скачайте последнюю версию программы из [репозитория GitHub]([https://github.com/dima09328678-beep/kursovaya-rabota]).
-2. Убедитесь, что в системе присутствует .NET Framework 4.7.2+. Если нет — загрузите с [официального сайта Microsoft](https://dotnet.microsoft.com/).
+2. Убедитесь, что в системе присутствует .NET Framework 4.7.2+. Если нет — загрузите с [официального сайта Microsoft]([https://dotnet.microsoft.com/](https://support.microsoft.com/ru-ru/topic/%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%89%D0%B8%D0%BA-microsoft-%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0-net-framework-4-7-2-%D0%B4%D0%BB%D1%8F-windows-05a72734-2127-a15d-50cf-daf56d5faec2)).
 3. Распакуйте архив и запустите `ElectrodynamicsCalc.exe` (ярлык можно вынести на рабочий стол).
 
 ### Запуск
