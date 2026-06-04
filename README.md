@@ -61,8 +61,8 @@
 
 ### Установка
 
-1. Скачайте последнюю версию программы из [репозитория GitHub](https://github.com/dima09328678-beep/test-rep).
-2. Убедитесь, что в системе присутствует .NET Framework 4.7.2+. Если нет — загрузите с [официального сайта Microsoft](https://dotnet.microsoft.com/).
+1. Скачайте последнюю версию программы из этого репозитория GitHub
+2. Убедитесь, что в системе присутствует .NET Framework 4.7.2+. Если нет — загрузите с [официального сайта Microsoft](https://dotnet.microsoft.com/ru-ru/download/dotnet-framework/net472).
 3. Распакуйте архив и запустите `ElectrodynamicsCalc.exe` (ярлык можно вынести на рабочий стол).
 
 ### Запуск
@@ -101,13 +101,12 @@
 Шесть формул постоянного тока: закон Ома, мощность, работа, сопротивление проводника, последовательное и параллельное соединения. Подробности — в разделе [Использование](#использование).
 
 **Где получить помощь?**  
-Напишите на email [dima09328678@gmail.com](mailto:dima09328678@gmail.com) или создайте Issue на GitHub.
+Напишите на email [![Email](https://img.shields.io/badge/Email-dima09328678%40gmail.com-blue)](mailto:dima09328678@gmail.com)  
+или
+Форма обратной связи: [Google Форма](https://docs.google.com/forms/d/e/1FAIpQLSfhqgntaFB1Zc6CUON9zDRehvxqoOOGMCALzP24cgqj0f91iQ/viewform?usp=publish-editor)
 
 ## Команда проекта
 
 **Автор и разработчик**  
 Дмитрий Горяну — студент группы 24ИСП-2, Орский гуманитарно-технологический институт (филиал) ОГУ.
 
-[![Email](https://img.shields.io/badge/Email-dima09328678%40gmail.com-blue)](mailto:dima09328678@gmail.com)  
-[![VK](https://img.shields.io/badge/VK-2b2t__org-4680C2)](https://vk.com/2b2t__org)  
-Форма обратной связи: [Google Форма](https://docs.google.com/forms/d/e/1FAIpQLSfhqgntaFB1Zc6CUON9zDRehvxqoOOGMCALzP24cgqj0f91iQ/viewform?usp=publish-editor)
