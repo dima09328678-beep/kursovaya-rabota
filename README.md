@@ -63,8 +63,7 @@
 
 1. Скачайте последнюю версию программы из этого репозитория GitHub
 2. Убедитесь, что в системе присутствует .NET Framework 4.7.2+. Если нет — загрузите с [официального сайта Microsoft](https://dotnet.microsoft.com/ru-ru/download/dotnet-framework/net472).
-3. Распакуйте архив и запустите `lb.exe` по пути: kursovaya-rabota-main\program\lb\obj\Debug\lb.exe. 
-   Либо запустите ярлык `Program` который находится в папке kursovaya-rabota
+3. Распакуйте архив и запустите `lb.exe` по пути: ...\program\lb\bin\Release\lb.exe. 
 
 ### Запуск
 
