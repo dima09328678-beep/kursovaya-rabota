@@ -1,0 +1,38 @@
+C:\NE WINDA\Visual Studio projects\LB 13\lb\lb\bin\Debug\lb.exe.config
+C:\NE WINDA\Visual Studio projects\LB 13\lb\lb\bin\Debug\lb.exe
+C:\NE WINDA\Visual Studio projects\LB 13\lb\lb\bin\Debug\lb.pdb
+C:\NE WINDA\Visual Studio projects\LB 13\lb\lb\obj\Debug\lb.csproj.AssemblyReference.cache
+C:\NE WINDA\Visual Studio projects\LB 13\lb\lb\obj\Debug\lb.Form1.resources
+C:\NE WINDA\Visual Studio projects\LB 13\lb\lb\obj\Debug\lb.Properties.Resources.resources
+C:\NE WINDA\Visual Studio projects\LB 13\lb\lb\obj\Debug\lb.csproj.GenerateResource.cache
+C:\NE WINDA\Visual Studio projects\LB 13\lb\lb\obj\Debug\lb.csproj.CoreCompileInputs.cache
+C:\NE WINDA\Visual Studio projects\LB 13\lb\lb\obj\Debug\lb.exe
+C:\NE WINDA\Visual Studio projects\LB 13\lb\lb\obj\Debug\lb.pdb
+C:\NE WINDA\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\lb\bin\Debug\lb.exe.config
+C:\NE WINDA\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\lb\bin\Debug\lb.exe
+C:\NE WINDA\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\lb\bin\Debug\lb.pdb
+C:\NE WINDA\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\lb\obj\Debug\lb.csproj.AssemblyReference.cache
+C:\NE WINDA\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\lb\obj\Debug\lb.Form1.resources
+C:\NE WINDA\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\lb\obj\Debug\lb.Form2.resources
+C:\NE WINDA\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\lb\obj\Debug\lb.Properties.Resources.resources
+C:\NE WINDA\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\lb\obj\Debug\lb.csproj.GenerateResource.cache
+C:\NE WINDA\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\lb\obj\Debug\lb.csproj.CoreCompileInputs.cache
+C:\NE WINDA\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\lb\obj\Debug\lb.exe
+C:\NE WINDA\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\lb\obj\Debug\lb.pdb
+C:\NE WINDA\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\lb\obj\Debug\lb.Form4.resources
+C:\ne winda\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\program\lb\obj\Debug\lb.csproj.AssemblyReference.cache
+C:\ne winda\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\program\lb\obj\Debug\lb.Form1.resources
+C:\ne winda\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\program\lb\obj\Debug\lb.Form2.resources
+C:\ne winda\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\program\lb\obj\Debug\lb.Properties.Resources.resources
+C:\ne winda\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\program\lb\obj\Debug\lb.csproj.GenerateResource.cache
+C:\ne winda\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\program\lb\obj\Debug\lb.csproj.CoreCompileInputs.cache
+C:\ne winda\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\program\lb\obj\Debug\lb.exe
+C:\ne winda\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\program\lb\obj\Debug\lb.pdb
+C:\ne winda\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\program\lb\bin\Debug\lb.exe.config
+C:\ne winda\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\program\lb\bin\Debug\lb.exe
+C:\ne winda\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\program\lb\bin\Debug\lb.pdb
+C:\ne winda\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\program\lb\obj\Debug\lb.ф.resources
+C:\ne winda\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\program\lb\obj\Debug\lb.Form7.resources
+C:\ne winda\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\program\lb\obj\Debug\lb.Form8.resources
+C:\ne winda\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\program\lb\obj\Debug\lb.Form9.resources
+C:\ne winda\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\program\lb\obj\Debug\lb.Form10.resources
