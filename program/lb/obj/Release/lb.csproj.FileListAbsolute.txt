@@ -1,0 +1,16 @@
+C:\ne winda\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\program\lb\bin\Release\lb.exe.config
+C:\ne winda\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\program\lb\bin\Release\lb.exe
+C:\ne winda\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\program\lb\bin\Release\lb.pdb
+C:\ne winda\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\program\lb\obj\Release\lb.csproj.AssemblyReference.cache
+C:\ne winda\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\program\lb\obj\Release\lb.Form1.resources
+C:\ne winda\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\program\lb\obj\Release\lb.Form10.resources
+C:\ne winda\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\program\lb\obj\Release\lb.Form2.resources
+C:\ne winda\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\program\lb\obj\Release\lb.ф.resources
+C:\ne winda\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\program\lb\obj\Release\lb.Form7.resources
+C:\ne winda\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\program\lb\obj\Release\lb.Form8.resources
+C:\ne winda\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\program\lb\obj\Release\lb.Form9.resources
+C:\ne winda\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\program\lb\obj\Release\lb.Properties.Resources.resources
+C:\ne winda\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\program\lb\obj\Release\lb.csproj.GenerateResource.cache
+C:\ne winda\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\program\lb\obj\Release\lb.csproj.CoreCompileInputs.cache
+C:\ne winda\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\program\lb\obj\Release\lb.exe
+C:\ne winda\Visual Studio projects\LB ОКНА ДЛЯ ПРОЕКТРОЙ\lb\program\lb\obj\Release\lb.pdb
