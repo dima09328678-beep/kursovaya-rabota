@@ -62,6 +62,8 @@
             this.label20 = new System.Windows.Forms.Label();
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.label21 = new System.Windows.Forms.Label();
+            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
+            this.label22 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
@@ -73,7 +75,7 @@
             this.pictureBox3.Location = new System.Drawing.Point(13, 323);
             this.pictureBox3.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(909, 10);
+            this.pictureBox3.Size = new System.Drawing.Size(999, 10);
             this.pictureBox3.TabIndex = 101;
             this.pictureBox3.TabStop = false;
             // 
@@ -93,7 +95,7 @@
             this.pictureBox2.Location = new System.Drawing.Point(13, 158);
             this.pictureBox2.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(909, 10);
+            this.pictureBox2.Size = new System.Drawing.Size(999, 10);
             this.pictureBox2.TabIndex = 99;
             this.pictureBox2.TabStop = false;
             // 
@@ -225,6 +227,7 @@
             this.label10.Size = new System.Drawing.Size(86, 29);
             this.label10.TabIndex = 86;
             this.label10.Text = "U * I * t";
+            this.label10.Click += new System.EventHandler(this.label10_Click);
             // 
             // label9
             // 
@@ -257,7 +260,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(156, 42);
             this.button1.TabIndex = 83;
-            this.button1.Text = "Рассчичтать";
+            this.button1.Text = "Рассчитать";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -290,9 +293,9 @@
             this.label5.Location = new System.Drawing.Point(143, 251);
             this.label5.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(50, 29);
+            this.label5.Size = new System.Drawing.Size(28, 29);
             this.label5.TabIndex = 80;
-            this.label5.Text = "Ом";
+            this.label5.Text = "A";
             // 
             // textBox2
             // 
@@ -302,6 +305,7 @@
             this.textBox2.Size = new System.Drawing.Size(72, 22);
             this.textBox2.TabIndex = 79;
             this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
+            this.textBox2.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox2_KeyPress);
             // 
             // label4
             // 
@@ -333,6 +337,7 @@
             this.textBox4.Size = new System.Drawing.Size(72, 22);
             this.textBox4.TabIndex = 76;
             this.textBox4.TextChanged += new System.EventHandler(this.textBox4_TextChanged);
+            this.textBox4.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox4_KeyPress);
             // 
             // label2
             // 
@@ -417,6 +422,7 @@
             this.textBox3.Size = new System.Drawing.Size(72, 22);
             this.textBox3.TabIndex = 107;
             this.textBox3.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
+            this.textBox3.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox3_KeyPress);
             // 
             // label21
             // 
@@ -429,11 +435,34 @@
             this.label21.TabIndex = 108;
             this.label21.Text = "сек.";
             // 
+            // richTextBox1
+            // 
+            this.richTextBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.richTextBox1.Location = new System.Drawing.Point(526, 12);
+            this.richTextBox1.Name = "richTextBox1";
+            this.richTextBox1.Size = new System.Drawing.Size(486, 134);
+            this.richTextBox1.TabIndex = 109;
+            this.richTextBox1.Text = "Через проводник, к которому приложено напряжение 220 В, в течение 10 секунд течет" +
+    " ток силой 5 А. Найдите работу тока в проводнике";
+            // 
+            // label22
+            // 
+            this.label22.AutoSize = true;
+            this.label22.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label22.Location = new System.Drawing.Point(523, 337);
+            this.label22.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label22.Name = "label22";
+            this.label22.Size = new System.Drawing.Size(47, 29);
+            this.label22.TabIndex = 110;
+            this.label22.Text = "Дж";
+            // 
             // Form7
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 448);
+            this.ClientSize = new System.Drawing.Size(1017, 448);
+            this.Controls.Add(this.label22);
+            this.Controls.Add(this.richTextBox1);
             this.Controls.Add(this.label21);
             this.Controls.Add(this.textBox3);
             this.Controls.Add(this.label20);
@@ -515,5 +544,7 @@
         private System.Windows.Forms.Label label20;
         private System.Windows.Forms.TextBox textBox3;
         private System.Windows.Forms.Label label21;
+        private System.Windows.Forms.RichTextBox richTextBox1;
+        private System.Windows.Forms.Label label22;
     }
 }

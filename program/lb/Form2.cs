@@ -139,5 +139,30 @@ namespace lb
                 return;
             e.Handled = true;
         }
+
+        private void richTextBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox4_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (char.IsDigit(e.KeyChar) ||
+        e.KeyChar == (char)8 ||
+        (e.KeyChar == ',' && !textBox4.Text.Contains(",")))
+                return;
+
+            e.Handled = true;
+        }
+
+        private void textBox2_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (char.IsDigit(e.KeyChar) ||
+        e.KeyChar == (char)8 ||
+        (e.KeyChar == ',' && !textBox4.Text.Contains(",")))
+                return;
+
+            e.Handled = true;
+        }
     }
 }

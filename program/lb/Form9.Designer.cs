@@ -60,6 +60,8 @@
             this.label7 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
             this.label17 = new System.Windows.Forms.Label();
+            this.label19 = new System.Windows.Forms.Label();
+            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
@@ -84,6 +86,7 @@
             this.textBox3.Size = new System.Drawing.Size(72, 22);
             this.textBox3.TabIndex = 174;
             this.textBox3.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
+            this.textBox3.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox3_KeyPress);
             // 
             // textBox1
             // 
@@ -102,9 +105,9 @@
             this.label18.Location = new System.Drawing.Point(8, 96);
             this.label18.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(367, 29);
+            this.label18.Size = new System.Drawing.Size(379, 29);
             this.label18.TabIndex = 169;
-            this.label18.Text = "R3 — сопротивление (Омы, Ом)";
+            this.label18.Text = "R3 — сопротивление   (Омы, Ом)";
             // 
             // pictureBox3
             // 
@@ -275,7 +278,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(171, 42);
             this.button1.TabIndex = 153;
-            this.button1.Text = "Рассчичтать";
+            this.button1.Text = "Рассчитать";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -309,6 +312,7 @@
             this.textBox2.Size = new System.Drawing.Size(72, 22);
             this.textBox2.TabIndex = 149;
             this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
+            this.textBox2.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox2_KeyPress);
             // 
             // label3
             // 
@@ -329,6 +333,7 @@
             this.textBox4.Size = new System.Drawing.Size(72, 22);
             this.textBox4.TabIndex = 146;
             this.textBox4.TextChanged += new System.EventHandler(this.textBox4_TextChanged);
+            this.textBox4.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox4_KeyPress);
             // 
             // label2
             // 
@@ -407,11 +412,34 @@
             this.label17.TabIndex = 180;
             this.label17.Text = "+";
             // 
+            // label19
+            // 
+            this.label19.AutoSize = true;
+            this.label19.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label19.Location = new System.Drawing.Point(523, 308);
+            this.label19.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
+            this.label19.Name = "label19";
+            this.label19.Size = new System.Drawing.Size(50, 29);
+            this.label19.TabIndex = 181;
+            this.label19.Text = "Ом";
+            // 
+            // richTextBox1
+            // 
+            this.richTextBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.richTextBox1.Location = new System.Drawing.Point(448, 12);
+            this.richTextBox1.Name = "richTextBox1";
+            this.richTextBox1.Size = new System.Drawing.Size(530, 113);
+            this.richTextBox1.TabIndex = 182;
+            this.richTextBox1.Text = "Три резистора с сопротивлениями 10 Ом, 20 Ом и 30 Ом соединены последовательно. Н" +
+    "айдите общее сопротивление";
+            // 
             // Form9
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(987, 450);
+            this.Controls.Add(this.richTextBox1);
+            this.Controls.Add(this.label19);
             this.Controls.Add(this.label17);
             this.Controls.Add(this.label11);
             this.Controls.Add(this.label7);
@@ -487,5 +515,7 @@
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label17;
+        private System.Windows.Forms.Label label19;
+        private System.Windows.Forms.RichTextBox richTextBox1;
     }
 }
