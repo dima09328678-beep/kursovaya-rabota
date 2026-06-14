@@ -62,7 +62,7 @@
 
 1. Скачайте последнюю версию программы из этого репозитория GitHub
 2. Убедитесь, что в системе присутствует .NET Framework 4.7.2+. Если нет — загрузите с [официального сайта Microsoft](https://dotnet.microsoft.com/ru-ru/download/dotnet-framework/net472).
-3. Распакуйте архив и запустите `lb.exe` по пути: kursovaya-rabota-main\program\lb\bin\Release. 
+3. Распакуйте архив и запустите `lb.exe` по пути: kursovaya-rabota-main\program\lb\bin\Release, либо скачайте файл Vychisleniya_v_ellektrodinamike.exe из раздела Releases с права.
 
 
 ### Работа с программой
